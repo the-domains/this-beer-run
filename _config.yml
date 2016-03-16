@@ -1,0 +1,28 @@
+name: This Beer Run
+favicon: null
+layout_spectrum: 0.24132291739806533
+typography_spectrum: 0.14674536418169737
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8566571152769029
+  lightness: 0.3258652950171381
+  saturation: 0.3371489958371967
+  rhythmicContrast: 0.7769331629388034
+purpose: []
